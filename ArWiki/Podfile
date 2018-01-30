@@ -1,0 +1,16 @@
+use_frameworks!
+
+target 'ArWiki' do
+
+pod 'JSQMessagesViewController', '~> 7.3.5'
+pod 'SwiftyJSON'
+pod 'ObjectMapper', '~> 2.2.8'
+pod 'Reachability', '~> 3.2'
+pod 'Nuke', '~> 5.0'
+pod 'Kingfisher', '~> 4.0'
+pod 'Alamofire', '~> 4.5'
+
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+end
